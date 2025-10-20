@@ -1,4 +1,5 @@
 Cucu Veronica 3B4
-video link: https://youtu.be/5dOFw5sE4HE
+Model video link: https://youtu.be/euEo8XZIWOM
+Scena video link: https://youtu.be/P-iwzsEEcaE
 
-*Am scris cod, insa nu am reusit sa il leg adecvat de proiect.
+
