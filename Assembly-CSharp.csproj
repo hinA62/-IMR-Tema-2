@@ -61,7 +61,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\ScoreManager.cs" />
-    <Compile Include="Assets\HMDInfoMAnager.cs" />
+    <Compile Include="Assets\HandGrabAnimator.cs" />
     <Compile Include="Assets\RingTrigger.cs" />
   </ItemGroup>
   <ItemGroup>
